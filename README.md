@@ -1,3 +1,3 @@
 # Simple-phone-book
 
-Simple contact book for people and companies made using inheritance and an abstract class.
+Simple contact book for people and companies made using inheritance, interface comparable and an abstract class.
